@@ -1,2 +1,1 @@
-Not my first readme
-yoh!
+My first readme
